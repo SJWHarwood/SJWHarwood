@@ -1,6 +1,6 @@
 ### Hello there, I'm Simon Harwood. 
 
-Changed from Agriculture into technology.
+Changed from Agriculture into Technology.
 
 
 <!-- 
