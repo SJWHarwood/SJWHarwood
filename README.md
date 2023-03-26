@@ -1,5 +1,8 @@
 ### Hello there, I'm Simon Harwood. 
 
+Changed from Agriculture into technology.
+
+
 <!-- 
 **SJWHarwood/SJWHarwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
