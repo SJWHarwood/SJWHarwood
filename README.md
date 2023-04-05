@@ -18,5 +18,5 @@ Here are some ideas to get you started
 - 💬 Ask me about ... Ruby on Rails
 - 📫 How to reach me: ... My email - sjwharwood@outlook.com
 - 😄 Pronouns: ... 
-- ⚡ Fun fact: ... I play cricket
+- ⚡ Fun fact: ... I play cricket!
 
