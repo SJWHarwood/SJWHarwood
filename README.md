@@ -9,7 +9,7 @@ Changed from Agriculture into Technology.
 **SJWHarwood/SJWHarwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  --> 
  
-Here are some ideas to get you started:
+Here are some ideas to get you started
 
 - 🔭 I’m currently working on ... Recipeasy - Our two week final project.
 - 🌱 I’m currently learning ... Computer science fundamentals and Javascript. 
