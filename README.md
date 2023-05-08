@@ -15,8 +15,7 @@ Here are some ideas to get you started
 - 🌱 I’m currently learning ... Computer science fundamentals and Javascript. 
 - 👯 I’m looking to collaborate on ... Any projects going, preferably back-end. 
 - 🤔 I’m looking for help with ... Nothing at the minute (come back later)
-- 💬 Ask me about ... Ruby on Rails
+- 💬 Ask me about ... Ruby on Rails or anything cricket related
 - 📫 How to reach me: ... My email - sjwharwood@outlook.com
-- 😄 Pronouns: ... 
 - ⚡ Fun fact: ... I play cricket!
 
