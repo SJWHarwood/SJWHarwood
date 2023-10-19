@@ -18,4 +18,5 @@ Here are some ideas to get you started
 - 💬 Ask me about ... Ruby on Rails or anything cricket related
 - 📫 How to reach me: ... My email - sjwharwood@outlook.com
 - ⚡ Fun fact: ... I play cricket!
+- ps. I'm looking for any projects to collaborate on
 
