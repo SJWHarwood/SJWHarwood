@@ -16,7 +16,7 @@ Here are some ideas to get you started
 - 👯 I’m looking to collaborate on ... Any projects going, preferably back-end. 
 - 🤔 I’m looking for help with ... Nothing at the minute (come back later)
 - 💬 Ask me about ... Ruby on Rails or anything cricket related
-- 📫 How to reach me: ... My email - sjwharwood@outlook.com
+- 📫 How to reach me: ... My email - sjwharwood@outlook.com - Thank you. 
 - ⚡ Fun fact: ... I play cricket!
 - ps. I'm looking for any projects to collaborate on - please get intouch via my email. 
 
